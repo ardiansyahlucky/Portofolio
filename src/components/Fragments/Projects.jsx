@@ -1,0 +1,54 @@
+const Project = () => {
+  return (
+    <div className="container pt-10 pb-10" id="project">
+      <div className="w-full px-4 mb-5" >
+        <h1 className="text-3xl font-bold text-lime-500 py-2 px-14 text-center">SELECTED PROJECT</h1>
+      </div>
+
+      <div className="w-full px-4 flex flex-wrap justify-center">
+        <div className="mb-12 p-4 md:w-1/2">
+          <div className="rounded-md shadow-md overflow-hidden" >
+            <img className="h-60 w-full object-cover" src="/images/bandweb.png" alt="" />
+            <span>
+              <h3 className="font-bold text-xl text-dark mt-5 mb-3 text-center">Website Band</h3>
+              <p className="font-medium text-md text-justify px-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
+            </span>
+          </div>
+        </div>
+
+        <div className="mb-12 p-4 md:w-1/2">
+          <div className="rounded-md shadow-md overflow-hidden" >
+          <img className="h-60 w-full object-cover" src="/images/1.png" alt="" />
+          <span>
+            <h3 className="font-bold text-xl text-dark mt-5 mb-3 text-center">E-Commerce</h3>
+            <p className="font-medium text-md text-justify px-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
+          </span>
+          </div>
+        </div>
+
+        <div className="mb-12 p-4 md:w-1/2">
+          <div className="rounded-md shadow-md overflow-hidden" >
+          <img className="h-60 w-full object-cover" src="/images/2.png" alt="" />
+          <span>
+            <h3 className="font-bold text-xl text-dark mt-5 mb-3 text-center">Portofolio</h3>
+            <p className="font-medium text-md text-justify px-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
+          </span>
+          </div>
+        </div>
+
+        <div className="mb-12 p-4 md:w-1/2">
+          <div className="rounded-md shadow-md overflow-hidden" >
+          <img className="h-60 w-full object-cover" src="/images/3.png" alt="" />
+          <span>
+            <h3 className="font-bold text-xl text-dark mt-5 mb-3 text-center">Blogspot</h3>
+            <p className="font-medium text-md text-justify px-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
+          </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+
+export default Project;
