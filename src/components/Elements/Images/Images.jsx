@@ -1,3 +1,7 @@
+import ImageReact from "/images/react.png";
+import ImageVscode from "/images/vscode.png";
+import ImageTailwind from "/images/tailwind.png";
+
 
 const Images = () => {
   return (
@@ -5,21 +9,21 @@ const Images = () => {
       <div>
         <img
           className="w-12 h-12 mb-2"
-          src="/images/vscode.png"
+          src={ImageVscode}
           alt="vscode" />
         <p className="font-bold">Vscode</p>
       </div>
       <div>
         <img
           className="w-12 h-12 mb-2 ml-2"
-          src="/images/react.png"
+          src={ImageReact}
           alt="react" />
         <p className="font-bold">React JS</p>
       </div>
       <div>
         <img
           className="w-14 h-12 mb-2"
-          src="/images/tailwind.png"
+          src={ImageTailwind}
           alt="tailwind" />
         <p className="font-bold">Tailwind</p>
       </div>

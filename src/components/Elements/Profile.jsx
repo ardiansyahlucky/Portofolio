@@ -1,4 +1,5 @@
 import MyPDF from "/CV/CV_LuckyA.pdf";
+import image from "/images/4.png";
 
 const Profile = () => {
 
@@ -14,7 +15,7 @@ const Profile = () => {
     <div className="container" id="about">
       <div className="flex flex-wrap mt-10 ">
         <div className="w-full self-center px-4 lg:w-1/2 hidden md:block ">
-          <img className="px-16" src="/images/4.png" alt="" />
+          <img className="px-16" src={image} alt="" />
         </div>
         <div className="ww-full self-center px-4 lg:w-1/2" >
           <h1 className="text-4xl font-bold text-lime-500 py-2 px-4 text-center">ABOUT ME</h1>
