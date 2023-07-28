@@ -13,7 +13,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig(({ command }) => {
   const config = {
     plugins: [react()],
-    base: '/portofolio/',
+    base: '/',
   }
 
   if (command !== 'serve') {
