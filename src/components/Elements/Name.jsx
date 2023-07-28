@@ -30,7 +30,7 @@ const Name = (props) => {
           <div className="relative mt-10 lg-mt-0 lg:right-0">
             <img
               className="max-w-full mx-auto "
-              src="{imagetes}"
+              src={imagetes}
               alt="profile" />
           </div>
         </div>
