@@ -4,7 +4,7 @@ import ImagesEmail from "/Icons/gmail.png";
 import ImagesWa from "/Icons/whatsapp.png";
 import ImagesLinkedin from "/Icons/linkedin.png";
 import ImagesIg from "/Icons/instagram.png";
-
+import ImageFooter from "/wave/footerwave.svg";
 
 const ContactForm = () => {
 
@@ -43,7 +43,7 @@ const ContactForm = () => {
         </div>
       </div>
       <div className="absolute inset-x-0 -mt-14">
-        <img src="/wave/footerwave.svg" alt="" className="" />
+        <img src={ImageFooter} alt="" className="" />
       </div>
     </div>
 
