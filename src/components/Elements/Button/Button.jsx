@@ -48,11 +48,12 @@ const Button = () => {
       </ul>
 
       
-      <div onClick={handleNav} className="block md:hidden mt-3 px-4  items-center">
-        {!nav ? <AiOutlineClose size={20}  />
-          : <AiOutlineMenu size={20} />}
+      <div onClick={handleNav} className="block md:hidden mt-3 px-2 items-center">
+        {!nav ? <AiOutlineMenu size={20}  />
+          : <AiOutlineClose size={20} />}
 
-        <div className={!nav ? "fixed bg-white shadow-lg rounded-lg right-4 text-lime-500 ease-in-out duration-500 mt-5" : "fixed right-[-100%] top-0"}>
+        <div className={!nav ? "fixed right-[-100%] top-0" : "fixed bg-white shadow-lg rounded-lg right-4 text-lime-500 ease-in-out duration-500 mt-5"}>
+        {/*  */}
           <ul className="uppercase font-sans">
             <li className="nav-item p-2">
               <Link className="hover:text-lime-500 cursor-pointer" to="home"
