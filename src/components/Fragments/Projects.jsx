@@ -5,9 +5,9 @@ import image3 from "/images/3.png";
 
 const Project = () => {
   return (
-    <div className="container pt-8 pb-10" id="project">
+    <div className="container pt-10 pb-10" id="project">
       <div className="w-full px-4" >
-        <h1 className="text-2xl md:text-3xl font-bold text-lime-500 py-2 px-14 text-center">SELECTED PROJECT</h1>
+        <h1 className="text-2xl lg:text-3xl font-bold text-lime-500 px-4 text-center">SELECTED PROJECT</h1>
       </div>
 
       <div className="w-full flex flex-wrap justify-center">

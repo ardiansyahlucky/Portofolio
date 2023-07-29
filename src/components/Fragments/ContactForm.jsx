@@ -36,7 +36,7 @@ const ContactForm = () => {
             </p>
           </div>
         </div>
-        <div className="lg:w-1/2 px-10 py-2">
+        <div className="w-full lg:w-1/2 px-10 py-2">
           <p className="text-xl font-medium text-md mb-20 text-justify">
             <span className="text-lime-500"> Thank you for visiting</span> , If there are criticisms and suggestions you can send them on my Social media, your criticisms and suggestions will be good input for me in the future.
           </p>

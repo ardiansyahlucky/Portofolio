@@ -3,7 +3,7 @@ import Profile from "../Elements/Profile"
 
 const About = () => {
   return (
-    <div className="pt-5 pb-5 mb-10" id="home">
+    <div className="pt-5 pb-24" id="home">
       <Name />
       <Profile/>
     </div>
