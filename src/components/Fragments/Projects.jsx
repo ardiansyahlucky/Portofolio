@@ -16,7 +16,7 @@ const Project = () => {
             <img className="h-60 w-full object-cover" src={imageBand} alt="" />
             <span>
               <h3 className="font-bold text-xl text-dark mt-5 mb-3 text-center">Website Band</h3>
-              <p className="font-medium text-md text-justify px-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
+              <p className="font-medium text-md text-justify ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
             </span>
           </div>
         </div>
@@ -26,7 +26,7 @@ const Project = () => {
           <img className="h-60 w-full object-cover" src={image1} alt="" />
           <span>
             <h3 className="font-bold text-xl text-dark mt-5 mb-3 text-center">E-Commerce</h3>
-            <p className="font-medium text-md text-justify px-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
+            <p className="font-medium text-md text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
           </span>
           </div>
         </div>
@@ -36,7 +36,7 @@ const Project = () => {
           <img className="h-60 w-full object-cover" src={image2} alt="" />
           <span>
             <h3 className="font-bold text-xl text-dark mt-5 mb-3 text-center">Portofolio</h3>
-            <p className="font-medium text-md text-justify px-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
+            <p className="font-medium text-md text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
           </span>
           </div>
         </div>
@@ -46,7 +46,7 @@ const Project = () => {
           <img className="h-60 w-full object-cover" src={image3} alt="" />
           <span>
             <h3 className="font-bold text-xl text-dark mt-5 mb-3 text-center">Blogspot</h3>
-            <p className="font-medium text-md text-justify px-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
+            <p className="font-medium text-md text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex voluptate a officia, alias eius accusamus praesentium eaque dolore laborum iste iure. Voluptas, sit id quam voluptatem ab nisi unde commodi tempora dignissimos ratione aperiam nam ullam sint quisquam laudantium ad cupiditate alias optio eligendi dolor reprehenderit a vitae! Aspernatur, voluptate. </p>
           </span>
           </div>
         </div>
