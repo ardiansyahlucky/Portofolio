@@ -10,7 +10,7 @@ const Project = () => {
         <h1 className="text-2xl lg:text-3xl font-bold text-lime-500 px-4 text-center">SELECTED PROJECT</h1>
       </div>
 
-      <div className="w-full flex flex-wrap justify-center">
+      <div className="w-full flex flex-wrap justify-center ">
         <div className="mb-12 p-4 lg:w-1/2">
           <div className="rounded-md shadow-md overflow-hidden" >
             <img className="h-60 w-full object-cover" src={imageBand} alt="" />

@@ -11,7 +11,7 @@ const ContactForm = () => {
   
   return (
     <div className="container mt-20" id="contact">
-      <div className="px-4 mb-8">
+      <div className="px-4 mb-8 ">
         <h1 className="text-2xl md:text-3xl font-bold text-lime-500 px-4 text-center">Contact Me</h1>
       </div>
       <div className="w-full flex flex-wrap justify-center ">
